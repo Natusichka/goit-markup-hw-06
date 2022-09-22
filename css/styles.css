@@ -722,6 +722,9 @@ img {
 .modal-form-field{
   margin-bottom: 10px;
 }
+.modal-form-info-field{
+  margin-bottom: 20px;
+}
 .modal-form-field-info {
   display: block;
   margin-bottom: 4px;
